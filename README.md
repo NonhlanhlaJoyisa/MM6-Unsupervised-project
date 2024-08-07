@@ -5,9 +5,7 @@ This project aims to develop a robust and efficient recommender system for anime
 
 Data
 
-Primary Source: MyAnimeList.net
-Secondary Sources (Optional): Anime News Network, Anime-Planet, Social Media Platforms
-Dependencies
+Data Source: MyAnimeList.net
 
 Python libraries such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Additional libraries might be required based on chosen algorithms and tools
